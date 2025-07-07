@@ -1,0 +1,23 @@
+{
+    "vendas": true,
+    "pix": true,
+    "pagarsite": true,
+    "tempmax": 10,
+    "acess_token": "Não Configurado",
+    "saldo": true,
+    "saldobonus": 0,
+    "saldomin": 0,
+    "semiauto": false,
+    "chavepix": "Não Configurado",
+    "tipochave": "Não Configurado",
+    "qrcode": "Não Configurado",
+    "logs_adm": "1224137453032575127",
+    "logs_public": "1224150533271584809",
+    "roles_client": "1224110324483887135",
+    "category": "1224150756333191251",
+    "notifycart": true,
+    "notifyaprovved": true,
+    "notifystock": true,
+    "terms": "Não Configurado",
+    "channel_fedback": "1224110339222802624"
+}
